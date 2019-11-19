@@ -1,2 +1,7 @@
 # Python_Challenge_Solutions
-How I solved pythonchallenge.com
+http://www.pythonchallenge.com
+
+
+greg$ Solving..._
+
+
